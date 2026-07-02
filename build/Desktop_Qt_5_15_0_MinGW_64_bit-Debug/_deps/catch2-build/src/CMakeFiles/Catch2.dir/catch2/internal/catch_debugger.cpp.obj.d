@@ -1,0 +1,28 @@
+_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.obj: \
+ C:\Users\klinf\Desktop\test_unit_list\test_list\build\Desktop_Qt_5_15_0_MinGW_64_bit-Debug\_deps\catch2-src\src\catch2\internal\catch_debugger.cpp \
+ C:/Users/klinf/Desktop/test_unit_list/test_list/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/_deps/catch2-src/src/catch2/internal/catch_debugger.hpp \
+ C:/Users/klinf/Desktop/test_unit_list/test_list/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/_deps/catch2-src/src/catch2/internal/catch_platform.hpp \
+ C:/Users/klinf/Desktop/test_unit_list/test_list/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/_deps/catch2-src/src/catch2/internal/catch_errno_guard.hpp \
+ C:/Users/klinf/Desktop/test_unit_list/test_list/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/_deps/catch2-src/src/catch2/internal/catch_stdstreams.hpp \
+ C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iosfwd \
+ C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stringfwd.h \
+ C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/memoryfwd.h \
+ C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/postypes.h \
+ C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cwchar \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wchar.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/_mingw_print_push.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/_mingw_stat64.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+ C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/_mingw_print_pop.h
