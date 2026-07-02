@@ -60,26 +60,65 @@ bool TestModuleEmpty()
     return list->Empty();
 }
 
+//добавление данных в список
+int TestModulePushBack()
+{
+    //список данных
+    List *list = new List();
 
-//
+    //добалвено одно значение
+    list->PushBack(12);
+
+    //добавлены данные
+    return list->Size();
+}
+
+//добавить данные в список
+int TestModulePushFront()
+{
+    //список данных
+    List *list = new List();
+
+    //добалвено одно значение
+    list->PushFront(12);
+
+    //добавлены данные
+    return list->Size();
+}
+
+//добавлен модуль Empty
 TEST_CASE(" тестирование модуля Empty ","[EMPTY]")
 {
     //
     REQUIRE(TestModuleEmpty()==1);
 }
 
-//
+//добавлен модуль Size
 TEST_CASE(" тестирование модуля Size ","[Size]")
 {
     //размер модуля равен 8
     REQUIRE(TestModuleSize() == 8);
 }
 
-//
+//добавлен модуль Clear
 TEST_CASE(" тестирование модуля Clear ","[Clear]")
 {
     //
     REQUIRE(TestModuleClear() == 0);
+}
+
+//добавлен модуль pushBack
+TEST_CASE("тестирование модуля PushBack","[PushBack]")
+{
+    //
+    REQUIRE(TestModulePushBack()==1);
+}
+
+//добавлен модуль pushFront
+TEST_CASE("тестирование модуля PushFront","[PushFront]")
+{
+    //
+    REQUIRE(TestModulePushFront()==1);
 }
 
 //
